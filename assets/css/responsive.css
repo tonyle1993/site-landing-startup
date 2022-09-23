@@ -73,18 +73,18 @@
   }
 
   .content .container__part {
-    margin-top: 32px;
+    margin-top: 16px;
   }
 
   .content .container__part-img {
     flex: 1;
     max-width: 100%;
-    margin-bottom: 32px;
+    margin-bottom: 16px;
   }
 
   .content .content__section {
-    padding-top: 32px;
-    padding-bottom: 32px;
+    padding-top: 16px;
+    padding-bottom: 16px;
   }
 
   .content .section__container {
