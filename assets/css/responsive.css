@@ -73,13 +73,13 @@
   }
 
   .content .container__part {
-    margin-top: 16px;
+    margin-top: 32px;
   }
 
   .content .container__part-img {
     flex: 1;
     max-width: 100%;
-    margin-bottom: 16px;
+    margin-bottom: 32px;
   }
 
   .content .content__section {
