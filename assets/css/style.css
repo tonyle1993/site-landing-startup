@@ -345,6 +345,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #212529;
 }
 
+.content .team__member-avatar {
+  margin: auto;
+}
+
 .content .team__member-position {
   font-weight: 400;
   font-size: 15px;
@@ -363,6 +367,10 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 1440px;
   justify-content: space-between;
   color: #fff;
+}
+
+.footer .footer__socials {
+  display: flex;
 }
 
 .footer .footer__socials-item {
